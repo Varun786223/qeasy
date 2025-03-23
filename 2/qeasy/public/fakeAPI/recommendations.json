@@ -1,0 +1,55 @@
+{
+  "userId": "12345",
+  "recommendedItems": [
+    {
+      "id": 6,
+      "name": "Fettuccine Alfredo",
+      "description": "Fettuccine pasta in creamy alfredo sauce",
+      "price": 12.99,
+      "category": "Pasta",
+      "image": "https://via.placeholder.com/150?text=Alfredo",
+      "reason": "Based on your pasta orders"
+    },
+    {
+      "id": 11,
+      "name": "Tiramisu",
+      "description": "Italian dessert with coffee-soaked ladyfingers and mascarpone cream",
+      "price": 6.99,
+      "category": "Desserts",
+      "image": "https://via.placeholder.com/150?text=Tiramisu",
+      "reason": "Popular dessert option"
+    },
+    {
+      "id": 15,
+      "name": "Chicken Wings",
+      "description": "Crispy wings with your choice of buffalo, BBQ, or honey garlic sauce",
+      "price": 10.99,
+      "category": "Appetizers",
+      "image": "https://via.placeholder.com/150?text=Wings",
+      "reason": "Frequently ordered with pizza"
+    },
+    {
+      "id": 3,
+      "name": "Hawaiian Pizza",
+      "description": "Pizza with ham, pineapple, and mozzarella cheese",
+      "price": 12.99,
+      "category": "Pizza",
+      "image": "https://via.placeholder.com/150?text=Hawaiian",
+      "reason": "Try a different pizza flavor"
+    }
+  ],
+  "frequentlyPairedItems": [
+    {
+      "mainItem": 1,
+      "pairedWith": [9, 13]
+    },
+    {
+      "mainItem": 2,
+      "pairedWith": [7, 13]
+    },
+    {
+      "mainItem": 4,
+      "pairedWith": [10, 14]
+    }
+  ]
+} 

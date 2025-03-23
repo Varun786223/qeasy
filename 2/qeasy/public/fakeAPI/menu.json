@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita Pizza",
+    "description": "Classic pizza with tomato sauce, mozzarella, and basil",
+    "price": 9.99,
+    "category": "Pizza",
+    "image": "https://via.placeholder.com/150?text=Margherita",
+    "popular": true,
+    "vegetarian": true
+  },
+  {
+    "id": 2,
+    "name": "Pepperoni Pizza",
+    "description": "Traditional pizza topped with pepperoni slices",
+    "price": 11.99,
+    "category": "Pizza",
+    "image": "https://via.placeholder.com/150?text=Pepperoni",
+    "popular": true,
+    "vegetarian": false
+  },
+  {
+    "id": 3,
+    "name": "Hawaiian Pizza",
+    "description": "Pizza with ham, pineapple, and mozzarella cheese",
+    "price": 12.99,
+    "category": "Pizza",
+    "image": "https://via.placeholder.com/150?text=Hawaiian",
+    "popular": false,
+    "vegetarian": false
+  },
+  {
+    "id": 4,
+    "name": "Spaghetti Carbonara",
+    "description": "Pasta with crispy pancetta, eggs, and parmesan",
+    "price": 13.99,
+    "category": "Pasta",
+    "image": "https://via.placeholder.com/150?text=Carbonara",
+    "popular": true,
+    "vegetarian": false
+  },
+  {
+    "id": 5,
+    "name": "Penne Arrabbiata",
+    "description": "Penne pasta with spicy tomato sauce and garlic",
+    "price": 10.99,
+    "category": "Pasta",
+    "image": "https://via.placeholder.com/150?text=Arrabbiata",
+    "popular": false,
+    "vegetarian": true
+  },
+  {
+    "id": 6,
+    "name": "Fettuccine Alfredo",
+    "description": "Fettuccine pasta in creamy alfredo sauce",
+    "price": 12.99,
+    "category": "Pasta",
+    "image": "https://via.placeholder.com/150?text=Alfredo",
+    "popular": true,
+    "vegetarian": true
+  },
+  {
+    "id": 7,
+    "name": "Caesar Salad",
+    "description": "Romaine lettuce with croutons, parmesan, and Caesar dressing",
+    "price": 8.99,
+    "category": "Salads",
+    "image": "https://via.placeholder.com/150?text=Caesar",
+    "popular": true,
+    "vegetarian": true
+  },
+  {
+    "id": 8,
+    "name": "Greek Salad",
+    "description": "Fresh vegetables, feta cheese, olives, and vinaigrette",
+    "price": 9.99,
+    "category": "Salads",
+    "image": "https://via.placeholder.com/150?text=Greek",
+    "popular": false,
+    "vegetarian": true
+  },
+  {
+    "id": 9,
+    "name": "Garlic Bread",
+    "description": "Toasted bread with garlic butter and herbs",
+    "price": 4.99,
+    "category": "Sides",
+    "image": "https://via.placeholder.com/150?text=GarlicBread",
+    "popular": true,
+    "vegetarian": true
+  },
+  {
+    "id": 10,
+    "name": "French Fries",
+    "description": "Crispy golden potato fries with salt",
+    "price": 3.99,
+    "category": "Sides",
+    "image": "https://via.placeholder.com/150?text=Fries",
+    "popular": true,
+    "vegetarian": true
+  },
+  {
+    "id": 11,
+    "name": "Tiramisu",
+    "description": "Italian dessert with coffee-soaked ladyfingers and mascarpone cream",
+    "price": 6.99,
+    "category": "Desserts",
+    "image": "https://via.placeholder.com/150?text=Tiramisu",
+    "popular": true,
+    "vegetarian": true
+  },
+  {
+    "id": 12,
+    "name": "Chocolate Cake",
+    "description": "Rich chocolate cake with chocolate ganache",
+    "price": 5.99,
+    "category": "Desserts",
+    "image": "https://via.placeholder.com/150?text=ChocCake",
+    "popular": false,
+    "vegetarian": true
+  },
+  {
+    "id": 13,
+    "name": "Soft Drink",
+    "description": "Your choice of cola, lemon-lime, or orange soda",
+    "price": 2.49,
+    "category": "Beverages",
+    "image": "https://via.placeholder.com/150?text=SoftDrink",
+    "popular": true,
+    "vegetarian": true
+  },
+  {
+    "id": 14,
+    "name": "Iced Tea",
+    "description": "Refreshing iced tea, sweetened or unsweetened",
+    "price": 2.49,
+    "category": "Beverages",
+    "image": "https://via.placeholder.com/150?text=IcedTea",
+    "popular": false,
+    "vegetarian": true
+  },
+  {
+    "id": 15,
+    "name": "Chicken Wings",
+    "description": "Crispy wings with your choice of buffalo, BBQ, or honey garlic sauce",
+    "price": 10.99,
+    "category": "Appetizers",
+    "image": "https://via.placeholder.com/150?text=Wings",
+    "popular": true,
+    "vegetarian": false
+  },
+  {
+    "id": 16,
+    "name": "Mozzarella Sticks",
+    "description": "Breaded mozzarella sticks with marinara sauce",
+    "price": 7.99,
+    "category": "Appetizers",
+    "image": "https://via.placeholder.com/150?text=MozSticks",
+    "popular": false,
+    "vegetarian": true
+  }
+] 

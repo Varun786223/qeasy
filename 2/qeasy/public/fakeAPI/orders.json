@@ -1,0 +1,41 @@
+{
+  "userId": "12345",
+  "pastOrders": [
+    {
+      "id": "ORD-1001",
+      "date": "2023-05-15T18:30:00",
+      "table": "Table 5",
+      "items": [
+        { "id": 1, "name": "Margherita Pizza", "price": 9.99, "quantity": 1 },
+        { "id": 9, "name": "Garlic Bread", "price": 4.99, "quantity": 1 },
+        { "id": 13, "name": "Soft Drink", "price": 2.49, "quantity": 2 }
+      ],
+      "total": 19.96,
+      "status": "completed"
+    },
+    {
+      "id": "ORD-982",
+      "date": "2023-05-08T19:15:00",
+      "table": "Table 3",
+      "items": [
+        { "id": 4, "name": "Spaghetti Carbonara", "price": 13.99, "quantity": 1 },
+        { "id": 10, "name": "French Fries", "price": 3.99, "quantity": 1 },
+        { "id": 14, "name": "Iced Tea", "price": 2.49, "quantity": 1 }
+      ],
+      "total": 20.47,
+      "status": "completed"
+    },
+    {
+      "id": "ORD-943",
+      "date": "2023-04-28T20:00:00",
+      "table": "Table 8",
+      "items": [
+        { "id": 2, "name": "Pepperoni Pizza", "price": 11.99, "quantity": 1 },
+        { "id": 7, "name": "Caesar Salad", "price": 8.99, "quantity": 1 },
+        { "id": 13, "name": "Soft Drink", "price": 2.49, "quantity": 1 }
+      ],
+      "total": 23.47,
+      "status": "completed"
+    }
+  ]
+} 
